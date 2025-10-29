@@ -32,6 +32,8 @@ nav a{
 }
 .aj:hover{
     cursor: pointer;
+    border-color: black;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
     transform: translate(-5px,-5px);
+
 }
