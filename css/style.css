@@ -1,0 +1,37 @@
+
+*{
+    font-family: "ubuntu";
+}
+.and li{
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+}
+.dt{
+    position: absolute;
+    bottom: 40%;
+}
+nav a{
+    color: royalblue !important;
+}
+.pe{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.gy{
+    position: absolute;
+    left: -8%;
+}
+.aj{
+    transition: all 0.3s linear;
+    border-radius: 12px;
+}
+.aj img{
+    border-radius: 12px;
+}
+.aj:hover{
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    transform: translate(-5px,-5px);
+}
